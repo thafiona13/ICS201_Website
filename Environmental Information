@@ -1,0 +1,38 @@
+<html>
+<title>Environmental Footprint</title>
+<head>
+<h1 style = "color:#35F72F; font-family:Lucida Console; font-size:
+500%"><center>
+Environmental Footprint: Razer 15</center></h1>
+</head>
+<body bgcolor = "black">
+<center>
+<table  border = 1 width = 80%>
+<tr>
+<th colspan =2 > <font color =#35F72F size = "7"> Environmental Information </font>
+<tr>
+<th bgcolor =  #414a4c width = 20%><font color = #35F72F size = "5">Power usage</font>
+<td bgcolor=#181818 width = 80%><font color = BBB3B3 size = "4">
+<li>Energy Star rating: No data
+<li>Power consumption:On idle mood between 14-21W % and has a 95-179 load capacity.
+<li>Charging adapter: 230 W
+</font>
+<tr>
+<th bgcolor =  #414a4c width = 20%><font color = #35F72F size = "5">Materials used</font>
+<td bgcolor=#181818 width = 80%><font color = BBB3B3 size = "4">  Razer 15 uses a aluminum unibody and may have lead and mercury, but I was unable to find any specific materials in the Razer 15.</font>
+<TR>
+<th bgcolor =  #414a4c width = 20%><font color = #35F72F size = "5">Manufactoring process</font>
+<td bgcolor=#181818 width = 80%><font color = BBB3B3 size = "4">  Razer is manufactored in China  but I was unable to find a specific company, many users on forum suspected it is manufactored in the same factory as ASUS products</font>
+<tr>
+<th bgcolor =  #414a4c width = 20%><font color = #35F72F size = "5">Recycling program</font>
+<td bgcolor=#181818 width = 80%><font color = BBB3B3 size = "4">  Razer does not offer a reycling program but bringing the computer into Bestbuy or other big electronic stores will accept it. Certain cities also accepts computers in its recycling centers but you must check first.  </font>
+<tr>
+<th bgcolor =  #414a4c width = 20%><font color = #35F72F size = "5">Disposal</font>
+<td bgcolor=#181818 width = 80%><font color = BBB3B3 size = "4"> We can dispose of our E-electronics at many stores, such as Staples and Bestbuy, or we can check online to recycling plants at this <a href= "https://www.recyclemyelectronics.ca/on/where-can-i-recycle/">website</a>. </font>
+
+</table>
+</center>
+<center><p><font color = BBB3B3 size = "4"> Click<a href="razer.html"> here </a>to go back to the main page </font></P></center>
+<body vlink= #35F72F >
+</body>
+</html>

@@ -1,0 +1,371 @@
+
+<html>
+<head>
+<title> Razer Blade </title>
+
+<style>
+.parallax {background-image: url("razar.jpg");
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: Lucida Console;}
+.tab { float: left;
+    border: 1px solid #35F72F;
+    background-color: #353839;
+    width: 18%;
+    height:495px;
+}
+.tab button {
+
+    display: block;
+    background-color: inherit;
+    color: #35F72F;
+    padding: 22px 30px;
+    width: 100% ;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 23px;
+}
+
+.tab button:hover {
+    background-color: #414a4c;
+}
+
+.tab button.active {
+    background-color: #414a4c;
+}
+.tabcontent {
+    float:left;
+    width:82%;
+    border-left:none;
+    display: none;
+    padding: 10px 30px;
+    border: 1px solid #35F72F;
+    height: 495px;
+    background-color: #181818;
+}
+</style>
+<style>
+ul {
+  list-style: none;
+}
+
+ul li::before {
+  content: "\2022";
+  color: 35F72F;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+</style>
+</head>
+
+<body bgcolor = "black">
+<h1 style = "color:#35F72F; font-family:Lucida Console; font-size:
+500%"><center>
+<a href="https://www.razer.com/ca-en/gaming-laptops/razer-blade" style="color:35F72F">
+Razar Blade 15</a></center></h1>
+<body vlink="35F72F">
+<div class="parallax">
+</div>
+
+<div style="height:570px;background-color:black">
+<hr width = 60% color = BBB3B3 size = 5>
+<center><h2 style ="color:#35F72F; font-family:Lucida Console; font-size:
+
+450%"> Computer Model Preview </h2></center>
+
+<center><p><font color=BBB3B3 size ="5"> 4K 60Hz GeForce GTX 1070 Model
+
+with 512 GB SSD storage in the black colour.</font></P></center>
+<br>
+<table style ="width: %100">
+<tr>
+<th width = "20%"><font color = BBB3B3 size = "4">OS</font></td>
+<td width = "5%">  </td>
+<td ><font color = BBB3B3 size = "4">Windows 10 Home (64-bit)</font></td>
+<td rowspan = 9><img src = "razer 2.jpg" width= 300 height = 300>
+<tr>
+<th><font color = BBB3B3 size = "4">Processor</font></td>
+<td>  </td>
+<td><font color = BBB3B3 size = "4">Intel Core i7-8750H processor 6
+
+Core</font></td>
+<tr>
+<th><font color = BBB3B3 size = "4">Graphics</font></td>
+<td></td>
+<td> <font color = BBB3B3 size = "4">NVIDIA GeForce GTX 1070 Max-Q (8GB
+
+VRAM)</font></td>
+<tr>
+<th><font color = BBB3B3 size = "4">Display </font></td>
+<td></td>
+<td><font color = BBB3B3 size = "4">15.6" 4K Touchscreen 60Hz w/ 4.9mm
+
+bezel</font></td>
+<tr>
+<th><font color = BBB3B3 size = "4">Storage</font></td>
+<td></td>
+<td><font color = BBB3B3 size = "4">512GB SSD</font></td>
+<tr>
+<th><font color = BBB3B3 size = "4">Memory</font></td>
+<td></td>
+<td><font color = BBB3B3 size = "4">16 GB dual-channel</font></td>
+<tr>
+<th><font color = BBB3B3 size = "4">Battery</font></td>
+<td></td>
+<td><font color = BBB3B3 size = "4">Up to 6 hours (80Wh)</font></td>
+<TR>
+<th><font color = BBB3B3 size = "4">Finish</font></td>
+<td></td>
+<td><font color = BBB3B3 size = "4"> RGB powered by Razer Chroma w/
+
+backlit green logo and ports</font></td>
+<tr>
+<th><font color = BBB3B3 size = "4">Dimensions</font></td>
+<td></td>
+<td> <font color = BBB3B3 size = "4">17.33mm x 355mm x 235mm</font></td>
+<tr>
+<th><font color = BBB3B3 size = "4">Price</font>
+<td>
+<td><font color = BBB3B3 size = "4">$3350 ($2100 base model)
+$
+</table>
+</div>
+
+<br>
+<hr width = 60% color = BBB3B3 size = 5>
+<div style="height:550px;background-color:black">
+<h1 style = "color:#35F72F; font-family:Lucida Console; font-size:
+
+450%"><center>Base Knowledge</font></center></h1>
+<center><p style = "color:#BBB3B3; font-family:Deathstar;font-size: 150%">
+
+The Razer Blade 15 is a high tier gaming laptop that is ideal for gamers.
+
+It can run many highly demanding game on great graphics and minimal lag.
+
+If I had this laptop, I would play my favourite games such as Tombraider,
+
+Assassins Creed, Skyrim and many others.</center></P>
+<center>
+<table width= %100>
+<tr>
+<td> <a href ="https://tombraider.square-enix-games.com/en-us "><img src =
+
+"Tombraider.jpg" width = 300 height = 300></a>
+<td> <a href = "https://assassinscreed.ubisoft.com/game/en-us/home"><img
+
+src = "death.jpg" width=300 height = 300></a>
+<td> <a href = "https://elderscrolls.bethesda.net"><img src = "elderscrolls.jpg" width = 300 height = 300></a>
+</table>
+</center>
+</div>
+<hr width = 60% color = BBB3B3 size = 5>
+
+<h1 style = "color:#35F72F; font-family:Lucida Console; font-
+
+size:400%"><center>Component Specs</font></center></h1>
+
+<div class="tab">
+ <button class="tablinks" onclick="openUnit(event,
+'Processor')"id="defaultOpen">Processor</button>
+
+ <button class="tablinks" onclick="openUnit(event,
+'Graphics')">Graphics</button>
+
+
+<button class="tablinks" onclick="openUnit(event,
+'Memory')">Memory</button>
+
+<button class="tablinks" onclick="openUnit
+(event,'Display')">Display </button>
+
+
+<button class="tablinks" onclick="openUnit(event,
+'Input')">Input</button>
+
+<button class="tablinks" onclick="openUnit(event,
+'Storage')">Storage</button>
+
+<button class="tablinks" onclick="openUnit(event,
+'Software')">Software</button>
+
+</div>
+
+<div id="Processor" class="tabcontent">
+  <h3 style = "color:#35F72F; font-family:Lucida Console; font-
+
+size:230%"><center>Processor: Intel® Core™ i7-8750H processor</h3>
+  <p><font color=#888888 size = 5>The Razer 15 offers a 8th gen i7 Intel
+
+processors. The Intel Core i7-8750H has a total of 6 cores, which is the
+
+amount of independent central processing unit in a chip, obviously the more
+
+cores the better as it allows your computer to process data faster and more
+
+efficiently.
+This processor also has 12 thread, which is the number of ordered sequence
+
+of code that can be processed by a CPU. It offers 64 GB of RAM which means
+
+the Razer 15 is a very fast computer. The i7-8750 offers an internal GPU
+
+which runs Intel UHD Graphics 630 with a refresh rate of 350 MHz but can be
+
+boosted up to 1.10 GHz. </font></p>
+</div>
+
+<div id="Graphics" class="tabcontent">
+  <h3 style = "color:#35F72F; font-family:Lucida Console; font-
+
+size:230%"><center>Graphics: NVIDIA® GeForce® GTX 1060 Max-Q</center></h3>
+  <p> <font color=#888888 size = 5>While the processors has a built-in
+
+graphics card, the Razer 15 offer a much more powerful external graphics
+
+card, NVIDIA GeForce GTX 1060 Max-Q, to run games at a higher refresh rate.
+
+This allows games to appear smoother and application to load smoother and
+
+faster. This GPU have a base clock rate of 1265 MHz but can be boosted up
+
+to 1480MHz. It sports a memore size of 6 GB with a 192.2 GB/s bandwidth,
+
+which means a very fast download speed.</font></p>
+</div>
+<div id="Memory" class="tabcontent">
+  <h3 style = "color:#35F72F; font-family:Lucida Console; font-
+
+size:230%"><center>Memory: 16 GB dual-channel</center></h3>
+  <p> <font color=#888888 size = 5>The memory of the computer is also known
+
+as the RAM, which means Random Access Memory. This is where the computer
+
+stores temporary instructions and date that are needed to complete task.
+
+The RAM of the computer allows the CPU to access instructions and data
+
+store in the memory very quickly, leading to a faster processing computer.
+
+My model offers 16GB of RAM which is more than enough for a gaming laptop,
+
+as most buisness class laptops only offer about 6 or 8GB.</font></p>
+</div>
+
+<div id="Display" class="tabcontent">
+  <h3 style = "color:#35F72F; font-family:Lucida Console; font-
+
+size:230%"><center>Display: Full HD screen </center></h3>
+  <p> <font color=#888888 size = 5>The Razer 15 offers a choice to get a
+
+Full HD screen with a 144 Hz refresh rate, this means that the 15" screen
+
+has a resolution of 1920 x 1080 pixels which refreshs at 144 Hz.
+
+</font></p>
+</div>
+<div id="Input" class="tabcontent">
+<h3 style = "color:#35F72F; font-family:Lucida Console; font-
+
+size:230%"><center>Input: Keyboard and mousepad</center></h3>
+<p> <font color=#888888 size = 5>The Razer 15 has a built-in keyboard that
+
+is a single zone RGB keyboard. This means it can display colour in Red,
+
+Green and Blue which comes in view with the LED display underneath the
+
+keys.</font></P>
+</div>
+<div id="Storage" class="tabcontent">
+  <h3 style = "color:#35F72F; font-family:Lucida Console; font-
+
+size:230%"><center>Storage: 512GB SSD</center></h3>
+  <p><font color=#888888 size = 5> My configuation of the Razer 15 has
+
+512GB of SSD storage. SSD stands for a solid state drice which is faster at
+
+storage than a regular HDD. This allows my storage card to be built right
+
+into my laptop so it takes up less space.</font> </p>
+</div>
+<div id="Software" class="tabcontent">
+  <h3 style = "color:#35F72F; font-family:Lucida Console; font-
+
+size:230%"><center>Software</center></h3>
+  <p><font color=#888888 size = 5> Razer offers 3 software,<A HREF= "https://www.razer.com/synapse-3">Razer Synapse</a>, which allows you to customize your Razer peripherals and stores it online, <a href = "https://www2.razer.com/chroma-workshop/blog?_ga=2.263693260.1526623490.1543548830-988070588.1542639117&_gac=1.254694010.1543596311.Cj0KCQiA3IPgBRCAARIsABb-iGKPsxzIy4e7IkMqlhD5ENxOR5UPRetkZWmdsDSpEtISYESydUQF3VwaAi2mEALw_wcB" color:35f72f>Razer chroma</a>, which allows you to ustomize the animated lighting effects of applicable devices and <a href = "https://www.razer.com/cortex" color:35F72F">Razer cortex</a> which can boost gaming performances and allows you to podcast.` </font> </p>
+</div>
+<hr width = 60% color = BBB3B3 size = 5>
+
+<center>
+<br>
+<table style ="width: 75%" >
+<tr>
+<th width =45 % colspan="2" > <font color=#35F72F size = 7> OS</font>
+<th width =5%>
+<th width =45%>  <font color=#35F72F size = 7> Warraties</font>
+<tr>
+<td colspan="2" ><font color=EFEFEF size = 4>The razer 15 run <a href="https://www.microsoft.com/en-ca/windows">Windows 10 home OS</a>, by Microsoft. An operating system is the software that supports a computer's basic functions. Windows 10 new additions includes:</font>
+<td>
+<td><font color=EFEFEF size = 4>Razer offers a Limited Warranty to all their parts from 1 to 2 years. They need a valid purchase id and proof of purchase, a valid proof of purchase is:</font>
+<tr>
+<td >
+<ul>
+<li><font color=EFEFEF size = 3> Start Menu</font>
+<li> <font color=EFEFEF size = 3>Improved  security </font>
+<li><font color=EFEFEF size = 3> Many others</font>
+<td >
+<ul>
+<li><font color=EFEFEF size = 3>Screen Capture Utility</font>
+<li><font color=EFEFEF size = 3>Search Panel from Start button</font>
+<li><font color=EFEFEF size = 3>Many other new features</font>
+</ul>
+<td>
+<td >
+<ul>
+<li><font color=EFEFEF size = 3>Dated sales receipt from valid Razer Dealer</font>
+<li> <font color=EFEFEF size = 3>Dated official email from a valid Razer Dealer</font>
+<li><font color=EFEFEF size = 3>Order number from the <a href= " https://www.razer.com/ca-en">Razer.com </a>website</font>
+</ul>
+</table>
+<br>
+<hr width = 60% color = BBB3B3 size = 5>
+ <h3><font color= #35F72F size = 6>Environmental Impact</font></h3>
+<p> <font color = EFEFEF size =3>Please click on this <a href = "earthy.html">link</a> to see the environmental impact</font></P>
+<script>
+function openUnit(evt, comptype) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active",
+
+"");
+    }
+    document.getElementById(comptype).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+
+</body>
+
+</html>
